@@ -1,0 +1,17 @@
+{
+  "name": "failed_queue_fix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "redis": "^2.8.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
