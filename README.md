@@ -5,4 +5,6 @@ This saved the day today, and I was not sure what to do with the code. It would 
 
 Here is a script to take Redis information, perform a MongoDb query based off of it, and then, finally, perform an API call.
 
+Type 'yarn install', edit URLs and queries inside `fix.js`, and then type `node fix.js` to run.
+
 MIT License
